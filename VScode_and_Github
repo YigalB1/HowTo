@@ -1,0 +1,11 @@
+In VScode: new window (so a fresh restart)
+Clone repository (in command pallate)
+Where to store on drive
+Save workspace (so all data will be together, even if few projects)
+Now adding projects PlatformIO projects (can have one or more, for eample if seveal ESP32 projects are part of a larger project)
+a. Add a PIO project
+b. dont chose default folder, to have control on location
+c. make changes 
+d. stage all changes
+e. Add comment and commit it
+f. Synch or upload it all
