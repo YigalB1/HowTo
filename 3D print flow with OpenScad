@@ -1,3 +1,6 @@
 Create openScad design (.scad)
 Within openScad, expoert to stl
-import into PrusaSlicer
+import into PrusaSlicer, there:
+  1. Slice it
+  2. Export to gCore
+the Gcode goes to the printer
