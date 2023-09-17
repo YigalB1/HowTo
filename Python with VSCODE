@@ -4,3 +4,4 @@ Venv with VS code: https://www.youtube.com/watch?v=GZbeL5AcTgw
   Drag foder to Vscode
   New file
   in command line within vscode: python -m venv .venv
+  Activate venv: .\.venv\Scripts\activate
