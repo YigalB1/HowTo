@@ -1,1 +1,6 @@
-https://www.youtube.com/watch?v=7EXd4_ttIuw
+Getting Started with Python in Visual Studio Code:  https://www.youtube.com/watch?v=7EXd4_ttIuw
+Install python from Microsoft store:
+Venv with VS code: https://www.youtube.com/watch?v=GZbeL5AcTgw
+  Drag foder to Vscode
+  New file
+  in command line within vscode: python -m venv .venv
