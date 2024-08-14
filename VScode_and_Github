@@ -10,3 +10,10 @@ c. make changes
 d. stage all changes
 e. Add comment and commit it
 f. Synch or upload it all
+
+
+Pushing code to github from terminal:
+- cd to project 
+- git remote add origin https://github.com/YigalB1/Train_ctrl_Aug24.git
+- git branch -M main
+- git push -u origin main
