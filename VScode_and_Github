@@ -17,3 +17,5 @@ Pushing code to github from terminal:
 - git remote add origin https://github.com/YigalB1/Train_ctrl_Aug24.git
 - git branch -M main
 - git push -u origin main
+
+Drivers for  ESP32 UART: https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads
